@@ -20,4 +20,4 @@ The currently inserted functions are:
 
   - JsonBBDD: Connects to a database to perform a query and converts the result of that query to json format for later use in any environment. (Like for example from an Android program) 
   - Rss: We will generate an rss to read the last 20 articles published in a web indicating the title, description, date of publication and the cover image.
-    - Conexion: Simple db conection using mysql_
+  - Conexion: Simple db conection using mysql_
