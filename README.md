@@ -1,7 +1,7 @@
 # Php-Examples
 Examples of useful coding for various projects in php.
 
-#[Spanish]
+[Spanish]
 
 En éste repositorio iremos añadiendo diversas funciones creadas en php útiles para todo tipo de web.
 
@@ -15,8 +15,9 @@ Las funciones insertadas actualmente són:
   - webBotonesAjax: Web simple en html que tiene incluidas las librerías de jquery y una función ajax que cargará en la propia web el resultado obtenido de la funcion SplitSQL presente en el fichero PHP accionAjax.
   - accionAjax: Fichero PHP que una vez se ejecute lanza la función SplitSQL que hace carga en la Base de datos.
   - navegacionAjax: Genera un html que se incluye dentro de webBotonesAjax que mostrará una lista desplegable con los ficheros sql que habrá en la carpeta "assets/sql/"
+- backupBBDD: Genera un fichero sql con las declaraciones y datos de las tablas especificadas o todas de una base datos.
 
-#[English]
+[English]
 
 
 In this repository we will be adding various functions created in php useful for all types of web. 
@@ -31,3 +32,4 @@ The currently inserted functions are:
   - webBotonesAjax: Simple web in html that has included jquery libraries and an ajax function that will load on the web the result obtained from the SplitSQL function present in the PHP file accionAjax.
   - accionAjax: PHP file that once launched launches the SplitSQL function that loads the database.
   - navegacionAjax: Generates an html that is included inside webBotonesAjax that will show a dropdown list with the files sql that will be in the folder "assets / sql /"
+  - backupBBDD: Generates an sql file with the declarations and data of the specified tables or all of a database.
